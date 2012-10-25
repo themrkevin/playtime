@@ -36,6 +36,8 @@ regions[highlighted] = Highlighted
 
 
 ;-------------- C S S -------------
+stylesheets[all][] = css/bootstrap.css
+stylesheets[all][] = css/bootstrap-responsive.min.css
 stylesheets[all][] = css/style.css
 
 ;-------------- CSS FOAD -------------
